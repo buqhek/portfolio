@@ -19,14 +19,16 @@ I'm currently working on the Michigan Data Science Team's research grant analysi
 
 <a href="{{ site.resume_file }}" class="btn" download>Download My Resume</a>
 
+---
+
 ## Relevant Courses
-- Engr101: Introduction to Computers and Programming <span style="float:right;">Completed</span>
-- Eecs280: Programming and Intro Data Structures <span style="float:right;">Completed</span>
-- Eecs203: Discrete Mathematics <span style="float:right;">Completed</span>
-- Eecs281: Data Structures and Algorithms <span style="float:right;">Completed</span>
-- Eecs398-003: Practical Data Science <span style="float:right;">Ongoing</span>
-- Math214: Applied Linear Algebra <span style="float:right;">Ongoing</span>
-- Stats412: Introduction to Probability and Statistics <span style="float:right;">Ongoing</span>
+- Engr101: Introduction to Computers and Programming | <span style="float:right;">Completed</span>
+- Eecs280: Programming and Intro Data Structures | <span style="float:right;">Completed</span>
+- Eecs203: Discrete Mathematics | <span style="float:right;">Completed</span>
+- Eecs281: Data Structures and Algorithms | <span style="float:right;">Completed</span>
+- Eecs398-003: Practical Data Science | <span style="float:right;">Ongoing</span>
+- Math214: Applied Linear Algebra | <span style="float:right;">Ongoing</span>
+- Stats412: Introduction to Probability and Statistics | <span style="float:right;">Ongoing</span>
 
 
 ## Projects
