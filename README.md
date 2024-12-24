@@ -11,7 +11,7 @@ I'm currently working on the Michigan Data Science Team's research grant analysi
 
 ---
 
-**Proficient Technical Skills:** C++, Python, 
+**Proficient Technical Skills:** C++, Python
 
 **Skills I'm Learning :** C#, Javascript, Github
 
