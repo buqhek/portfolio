@@ -20,7 +20,7 @@ I'm currently working on the Michigan Data Science Team's research grant analysi
 
 # Projects
 ### MDST: Research Grant Analysis | [Presentation](https://www.canva.com/design/DAGWwTYnXlg/nAtzd2Eopv9MCZ6SEbqq6w/edit?utm_content=DAGWwTYnXlg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- Praacticed learning python
+- Practiced learning python
 - Developed basic data analysis skills
   
 ### Minecraft 1.21.1 Fabric Mod | [Github](https://github.com/buqhek/Fabric-Tutorial-1.21.1)
