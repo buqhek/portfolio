@@ -1,4 +1,4 @@
-## A Little About Me
+# A Little About Me
 Hello! 👋  
 
 My name is Hektor Buqaj. I'm a sophomore at the University of Michigan, currently pursuing a Bachelor's of Engineering in Data science. As a member of the Michigan Data Science Team, a cohort member of M-Stem, and a proud member of the Albanian American Student Association, I strongly believe in the collaboration and cooperation towards making a better tomorrow.  
@@ -9,6 +9,7 @@ I'm highly passionate about sustainable technology practices, with additional in
 
 I'm currently working on the Michigan Data Science Team's research grant analysis project. As a video game hobbyist, I'm currently spending my free time working with the Fabric API to develop a Minecraft mod, and further refine my skills in scripting.  
 
+---
 
 **Proficient Technical Skills:** C++, Python, 
 
@@ -20,7 +21,7 @@ I'm currently working on the Michigan Data Science Team's research grant analysi
 
 ---
 
-## Relevant Courses
+# Relevant Courses
 - Engr101: Intro to Computers and Programming | <span style="float:right;">Completed</span>
 - Eecs280: Programming and Intro Data Structures | <span style="float:right;">Completed</span>
 - Eecs203: Discrete Mathematics | <span style="float:right;">Completed</span>
@@ -31,7 +32,7 @@ I'm currently working on the Michigan Data Science Team's research grant analysi
 
 ---
 
-## Projects
+# Projects
 ### MDST: Research Grant Analysis | [Presentation](https://www.canva.com/design/DAGWwTYnXlg/nAtzd2Eopv9MCZ6SEbqq6w/edit?utm_content=DAGWwTYnXlg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Practiced learning python
 - Developed basic data analysis skills
@@ -42,9 +43,8 @@ I'm currently working on the Michigan Data Science Team's research grant analysi
 - Focus on clean, modular code supports adding new functionalities and ensuring compatibility.
 - Align with community standards and contribute to the broader Fabric modding ecosystem.
 
---- 
 
-## Contact
+# Contact
 
 **Email:** hektorb@umich.edu  
 
