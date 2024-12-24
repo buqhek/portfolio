@@ -9,16 +9,25 @@ I'm highly passionate about sustainable technology practices, with additional in
 
 I'm currently working on the Michigan Data Science Team's research grant analysis project. As a video game hobbyist, I'm currently spending my free time working with the Fabric API to develop a Minecraft mod, and further refine my skills in scripting.  
 
-[Resume](assets/downloads/Buqaj_Resume.pdf)
+---  
+
+**Proficient Technical Skills:** C++, Python, 
+
+**Skills I'm Learning :** C#, Javascript, Github
+
+**Soft Skills:** Communication, Organization, Teamwork, Problem Solving, Time Management
+
+<a href="{{ site.resume_file }}" class="btn" download>Download My Resume</a>
 
 ## Relevant Courses
-- Engr101: Introduction to Computers and Programming | Completed
-- Eecs280: Programming and Intro Data Structures | Completed
-- Eecs203: Discrete Mathematics | Completed
-- Eecs281: Data Structures and Algorithms | Completed
-- Eecs398-003: Practical Data Science | Ongoing
-- Math214: Applied Linear Algebra | Ongoing
-- Stats412: Introduction to Probability and Statistics | Ongoing
+- Engr101: Introduction to Computers and Programming <span style="float:right;">Completed</span>
+- Eecs280: Programming and Intro Data Structures <span style="float:right;">Completed</span>
+- Eecs203: Discrete Mathematics <span style="float:right;">Completed</span>
+- Eecs281: Data Structures and Algorithms <span style="float:right;">Completed</span>
+- Eecs398-003: Practical Data Science <span style="float:right;">Ongoing</span>
+- Math214: Applied Linear Algebra <span style="float:right;">Ongoing</span>
+- Stats412: Introduction to Probability and Statistics <span style="float:right;">Ongoing</span>
+
 
 ## Projects
 ### MDST: Research Grant Analysis | [Presentation](https://www.canva.com/design/DAGWwTYnXlg/nAtzd2Eopv9MCZ6SEbqq6w/edit?utm_content=DAGWwTYnXlg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -39,5 +48,5 @@ I'm currently working on the Michigan Data Science Team's research grant analysi
 
 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/hektor-buqaj/)
 
-**Phone Number:**  +1 (248)657-3600  
+**Phone Number:**  +1 248-657-3600  
 
