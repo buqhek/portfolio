@@ -52,5 +52,5 @@ I'm currently working on the Michigan Data Science Team's research grant analysi
 
 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/hektor-buqaj/)
 
-**Phone Number:**  +1 248-657-3600  
+<!-- **Phone Number:**  +1 248-657-3600   -->
 
