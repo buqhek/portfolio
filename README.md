@@ -7,7 +7,9 @@ I'm a firm believer that the stories we tell and hear around us hold power, and 
 
 I'm highly passionate about sustainable technology practices, with additional interest in various other fields, such as game development.  
 
-I'm currently working on the Michigan Data Science Team's research grant analysis project. As a video game hobbyist, I'm currently spending my free time working with the Fabric API to develop a Minecraft mod, and further refine my skills in scripting.  
+I'm currently working on the Michigan Data Science Team's LLM Augmentation project. Our team is working on a project called "Eventure" - a tool for people who like traveling to find things to do in the cities they are visiting. If you want to learn more about this project, feel free to reach out! I will be updating my team and I's progress on it as we go 🚀
+
+Aside from extracurriculars, I currently am spending my free time working with the Fabric API to develop a Minecraft mod, and further refine my skills in scripting.  
 
 ---
 
