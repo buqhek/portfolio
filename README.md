@@ -26,9 +26,9 @@ I'm currently working on the Michigan Data Science Team's research grant analysi
 - Eecs280: Programming and Intro Data Structures | <span style="float:right;">Completed</span>
 - Eecs203: Discrete Mathematics | <span style="float:right;">Completed</span>
 - Eecs281: Data Structures and Algorithms | <span style="float:right;">Completed</span>
-- Eecs398-003: Practical Data Science | <span style="float:right;">Ongoing</span>
-- Math214: Applied Linear Algebra | <span style="float:right;">Ongoing</span>
-- Stats412: Intro to Probability and Statistics | <span style="float:right;">Ongoing</span>
+- Eecs398-003: Practical Data Science | <span style="float:right;">Completed</span>
+- Math214: Applied Linear Algebra | <span style="float:right;">Completed</span>
+- Stats412: Intro to Probability and Statistics | <span style="float:right;">Completed</span>
 
 ---
 
