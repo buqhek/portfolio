@@ -35,18 +35,21 @@ I'm currently working on the Michigan Data Science Team's research grant analysi
 # Projects
 
 ### MDST: LLM Augmentation - Eventure | Website soon!
-- Worked with a team to develop an AI chatbot utilizing OpenAI's API alongside Ticketmaster's API to build a traveling product for users who are interested in traveling to build itineraries when they travel.
-- Focused on integrating APIs and building pipelines for our OpenAI API to seamlessly interact with user queries and the frontend of our product
+- Worked with a team to develop an AI chatbot utilizing OpenAI's API alongside Ticketmaster's API to build a traveling product for users who are interested in building itineraries when they travel.
+
+- Focused on integrating APIs and building pipelines for our OpenAI API to seamlessly interact with user queries and the frontend of our product.
 
 ### MDST: Research Grant Analysis | [Presentation](https://www.canva.com/design/DAGWwTYnXlg/nAtzd2Eopv9MCZ6SEbqq6w/edit?utm_content=DAGWwTYnXlg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- Practiced utilizing the pandas library with plotly to analyze and build visualizations of my findings and trends
-- Developed a deliverable presentation to showcase my findings
+- Practiced utilizing the pandas library with plotly to analyze and build visualizations of my findings and trends.
+
+- Developed a deliverable presentation to showcase my findings.
   
 ### Minecraft 1.21.1 Fabric Mod | [Github](https://github.com/buqhek/Fabric-Tutorial-1.21.1)
 - Utilizing KaupenJoe's tutorial series, since it provides a strong foundation for setting up and understanding Fabric modding basics.
-- It offers a framework to build advanced features using Minecraft 1.21.1 updates like cherry blossom biomes and archaeology.
+
+- Utilizing the fabric framework to build advanced features using Minecraft 1.21.1 updates like cherry blossom biomes and archaeology.
+
 - Focus on clean, modular code supports adding new functionalities and ensuring compatibility.
-- Align with community standards and contribute to the broader Fabric modding ecosystem.
 
 
 # Contact
