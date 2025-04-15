@@ -7,9 +7,7 @@ I'm a firm believer that the stories we tell and hear around us hold power, and 
 
 I'm highly passionate about sustainable technology practices, with additional interest in various other fields, such as game development.  
 
-I'm currently working on the Michigan Data Science Team's LLM Augmentation project. Our team is working on a project called "Eventure" - a tool for people who like traveling to find things to do in the cities they are visiting. If you want to learn more about this project, feel free to reach out! I will be updating my team and I's progress on it as we go 🚀
-
-Aside from extracurriculars, I currently am spending my free time working with the Fabric API to develop a Minecraft mod, and further refine my skills in scripting.  
+I'm currently working on the Michigan Data Science Team's research grant analysis project. As a video game hobbyist, I'm currently spending my free time working with the Fabric API to develop a Minecraft mod, and further refine my skills in scripting.  
 
 ---
 
@@ -35,9 +33,14 @@ Aside from extracurriculars, I currently am spending my free time working with t
 ---
 
 # Projects
+
+### MDST: LLM Augmentation - Eventure | Website soon!
+- Worked with a team to develop an AI chatbot utilizing OpenAI's API alongside Ticketmaster's API to build a traveling product for users who are interested in traveling to build itineraries when they travel.
+- Focused on integrating APIs and building pipelines for our OpenAI API to seamlessly interact with user queries and the frontend of our product
+
 ### MDST: Research Grant Analysis | [Presentation](https://www.canva.com/design/DAGWwTYnXlg/nAtzd2Eopv9MCZ6SEbqq6w/edit?utm_content=DAGWwTYnXlg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- Practiced learning python
-- Developed basic data analysis skills
+- Practiced utilizing the pandas library with plotly to analyze and build visualizations of my findings and trends
+- Developed a deliverable presentation to showcase my findings
   
 ### Minecraft 1.21.1 Fabric Mod | [Github](https://github.com/buqhek/Fabric-Tutorial-1.21.1)
 - Utilizing KaupenJoe's tutorial series, since it provides a strong foundation for setting up and understanding Fabric modding basics.
