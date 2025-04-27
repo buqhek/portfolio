@@ -7,13 +7,13 @@ I'm a firm believer that the stories we tell and hear around us hold power, and 
 
 I'm highly passionate about sustainable technology practices, with additional interest in various other fields, such as game development.  
 
-I'm currently working on the Michigan Data Science Team's research grant analysis project. As a video game hobbyist, I'm currently spending my free time working with the Fabric API to develop a Minecraft mod, and further refine my skills in scripting.  
+As the 24-25 school year comes to a close, I am planning to continue my MDST chatbot project to learn more about RAG, function calling, few shot prompting, and agents. As a video game hobbyist, I'm currently spending my coding passion and working with the Fabric API to develop a Minecraft mod, and further refine my skills in scripting for fun.  
 
 ---
 
-**Proficient Technical Skills:** C++, Python: pandas, plotly
+**Proficient Technical Skills:** C++, Python: Pandas, Plotly, Matplotlib
 
-**Skills I'm Learning :** C#, Javascript, Github, sklearn
+**Skills I'm Learning :** C#, Javascript, Git, Scikit-learn, Beautifulsoup
 
 **Soft Skills:** Communication, Organization, Teamwork, Problem Solving, Time Management
 
