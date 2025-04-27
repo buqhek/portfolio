@@ -34,10 +34,17 @@ I'm currently working on the Michigan Data Science Team's research grant analysi
 
 # Projects
 
-### MDST: LLM Augmentation - Eventure | Website soon!
+### Power Outage Analysis | [Link](https://buqhek.github.io/power_outages_analysis/)
+- Developed a regression model using scikit-learn to predict electricity prices based on power outage data, achieving a 84% reduction in mean squared error through feature engineering and hyperparameter tuning.
+
+- Implemented data preprocessing pipelines for mixed data types (categorical, numerical, and datetime), incorporating custom temporal feature engineering to extract business-relevant patterns from outage timestamps.
+
+- Conducted thorough exploratory data analysis on a 1,400+ record dataset of U.S. power outages (2000-2016), visualizing regional patterns and temporal trends to identify key predictive features
+
+<!-- ### MDST: LLM Augmentation - Eventure | Website soon!
 - Worked with a team to develop an AI chatbot utilizing OpenAI's API alongside Ticketmaster's API to build a traveling product for users who are interested in building itineraries when they travel.
 
-- Focused on integrating APIs and building pipelines for our OpenAI API to seamlessly interact with user queries and the frontend of our product.
+- Focused on integrating APIs and building pipelines for our OpenAI API to seamlessly interact with user queries and the frontend of our product. -->
 
 ### MDST: Research Grant Analysis | [Presentation](https://www.canva.com/design/DAGWwTYnXlg/nAtzd2Eopv9MCZ6SEbqq6w/edit?utm_content=DAGWwTYnXlg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Practiced utilizing the pandas library with plotly to analyze and build visualizations of my findings and trends.
