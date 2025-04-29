@@ -18,11 +18,11 @@ As the 24-25 school year comes to a close, I am planning to continue my MDST cha
 **Soft Skills:** Communication, Organization, Teamwork, Problem Solving, Time Management
 
 <!-- Markdown link download version -->
-<!-- [Download My Resume](/assets/downloads/Buqaj_Technical_Resume_2.0.pdf) -->
+[Download My Resume](/assets/downloads/Buqaj_Technical_Resume_2.0.pdf)
 
 <!-- HTML button version -->
 <!-- <a href="/assets/downloads/Buqaj_Technical_Resume_2.0.pdf" download style="display: inline-block; background-color: #4CAF50; color: white; padding: 12px 24px; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px; border: none; cursor: pointer; font-family: Arial, sans-serif; font-weight: bold;">📥 Download My Resume</a> -->
-<a href="/assets/downloads/Buqaj_Technical_Resume_2.0.pdf" download="Buqaj_Technical_Resume_2.0.pdf" style="display: inline-block; background-color: #4CAF50; color: white; padding: 12px 24px; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px; border: none; cursor: pointer; font-family: Arial, sans-serif; font-weight: bold;">📥 Download My Resume</a>
+<!-- <a href="/assets/downloads/" download="Buqaj_Technical_Resume_2.0.pdf" style="display: inline-block; background-color: #4CAF50; color: white; padding: 12px 24px; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px; border: none; cursor: pointer; font-family: Arial, sans-serif; font-weight: bold;">📥 Download My Resume</a> -->
 
 ---
 
