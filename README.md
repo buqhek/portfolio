@@ -1,19 +1,17 @@
 # A Little About Me
 Hello! 👋  
 
-My name is Hektor Buqaj. I'm a sophomore at the University of Michigan, currently pursuing a Bachelor's of Engineering in Data science. As a member of the Michigan Data Science Team, a cohort member of M-Stem, and a proud member of the Albanian American Student Association, I strongly believe in the collaboration and cooperation towards making a better tomorrow.  
+My name is Hektor Buqaj. I'm a Junior at the University of Michigan, currently pursuing a Bachelor's of Engineering in Data science. As a member of the Michigan Data Science Team, a cohort member of M-Stem, and a proud member of the Albanian American Student Association, I strongly believe in the collaboration and cooperation towards making a better tomorrow.  
 
 I'm a firm believer that the stories we tell and hear around us hold power, and have the ability to change people. As a data science student, I've become more accustomed to reading the stories in the data I work through. As a result, I hope to take my skills and make the story we'll tell about the future to be a better one.  
 
 I'm highly passionate about sustainable technology practices, with additional interest in various other fields, such as game development.  
 
-As the 24-25 school year comes to a close, I am planning to continue my MDST chatbot project to learn more about RAG, function calling, few shot prompting, and agents. As a video game hobbyist, I'm currently spending my coding passion and working with the Fabric API to develop a Minecraft mod, and further refine my skills in scripting for fun.  
-
 ---
 
-**Proficient Technical Skills:** C++, Python: Pandas, Plotly, Matplotlib
+**Proficient Technical Skills:** C++, Python: Pandas, Plotly, Matplotlib, Git, Scikit-learn, Beautifulsoup, SQLite
 
-**Skills I'm Learning :** C#, Javascript, Git, Scikit-learn, Beautifulsoup
+**Skills I'm Learning :** C#, Javascript, Pytorch, Flask, React
 
 **Soft Skills:** Communication, Organization, Teamwork, Problem Solving, Time Management
 
@@ -34,6 +32,9 @@ As the 24-25 school year comes to a close, I am planning to continue my MDST cha
 - Eecs398-003: Practical Data Science | <span style="float:right;">Completed</span>
 - Math214: Applied Linear Algebra | <span style="float:right;">Completed</span>
 - Stats412: Intro to Probability and Statistics | <span style="float:right;">Completed</span>
+- Stats413: Applied Linear Regression | <span style="float:right;">Ongoing</span>
+- Eecs485: Web Systems | <span style="float:right;">Ongoing</span>
+- Aero388: Systems Engineering Processes and Digital Tools (MBSE) | <span style="float:right;">Ongoing</span>
 
 ---
 
