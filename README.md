@@ -32,8 +32,8 @@ I'm highly passionate about sustainable technology practices, with additional in
 - Eecs398-003: Practical Data Science | <span style="float:right;">Completed</span>
 - Math214: Applied Linear Algebra | <span style="float:right;">Completed</span>
 - Stats412: Intro to Probability and Statistics | <span style="float:right;">Completed</span>
-- Stats413: Applied Linear Regression | <span style="float:right;">Ongoing</span>
-- Eecs485: Web Systems | <span style="float:right;">Ongoing</span>
+- Stats413: Applied Linear Regression | <span style="float:right;">Completed</span>
+- Eecs485: Web Systems | <span style="float:right;">Completed</span>
 - Aero388: Systems Engineering Processes and Digital Tools (MBSE) | <span style="float:right;">Ongoing</span>
 
 ---
