@@ -79,7 +79,9 @@ Controls:
 
 Collaboration: This was a two-person project. My teammate developed the sword and weapon systems, star power-up, and custom level.
 
-Technologies: Unity, C#, Git.
+Technology used:
+- Unity
+- C#
 
 [Play on my Itch.io](https://mustardk1ng.itch.io/zelda-1-dungeon-1-remake)
 
