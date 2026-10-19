@@ -53,7 +53,10 @@ Technology used:
 - C#
 
 [Download the game for Windows and Mac](/assets/downloads/TeleBall.zip)
+
 [Play on my Itch.io]()
+
+---
 
 ### The Legend of Zelda - Dungeon 1 Recreation
 A team project for EECS 494 recreating dungeon gameplay from The Legend of Zelda using Unity. The game includes enemies, weapons, collectibles, room exploration, and a custom level featuring a star power-up.
@@ -68,7 +71,11 @@ Technologies: Unity, C#, Git.
 
 [Download the game for Windows and Mac](/assets/downloads/Zelda_Dungeon1.zip)
 
+[Play on my Itch.io]()
+
 Original game and characters by Nintendo. Created as a student project.
+
+---
 
 ### Power Outage Analysis | [Link](https://buqhek.github.io/power_outages_analysis/)
 - Developed a regression model using scikit-learn to predict electricity prices based on power outage data, achieving a 84% reduction in mean squared error through feature engineering and hyperparameter tuning.
@@ -82,10 +89,14 @@ Original game and characters by Nintendo. Created as a student project.
 
 - Focused on integrating APIs and building pipelines for our OpenAI API to seamlessly interact with user queries and the frontend of our product. -->
 
+---
+
 ### MDST: Research Grant Analysis | [Presentation](https://www.canva.com/design/DAGWwTYnXlg/nAtzd2Eopv9MCZ6SEbqq6w/edit?utm_content=DAGWwTYnXlg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Practiced utilizing the pandas library with plotly to analyze and build visualizations of my findings and trends.
 
 - Developed a deliverable presentation to showcase my findings.
+
+---
   
 ### Minecraft 1.21.1 Fabric Mod | [Github](https://github.com/buqhek/Fabric-Tutorial-1.21.1)
 - Utilizing KaupenJoe's tutorial series, since it provides a strong foundation for setting up and understanding Fabric modding basics.
