@@ -53,9 +53,9 @@ Technology used:
 - C#
 
 [Download the game for Windows and Mac](https://mustardk1ng.itch.io/teleball-windows-and-mac-builds)
-
 [Play on my Itch.io](https://mustardk1ng.itch.io/teleball)
 
+[Download the demo/halfway point of the project](https://mustardk1ng.itch.io/teleball-demo)
 ---
 
 ### The Legend of Zelda - Dungeon 1 Recreation
