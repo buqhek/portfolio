@@ -1,7 +1,9 @@
 # A Little About Me
-Hello! 👋  
+Hello! My name is Hektor Buqaj. I'm a Senior at the University of Michigan, currently pursuing a Bachelor's of Engineering in Data science. Beyond playing an abhorrent amount of video games and watching a lot of youtube, I have been deeply enjoying my semester of learning game development and blender to make all kinds of very cool things. Beyond this, I research for Michigan Medicine in Machine Learning projects, such as a deep-learning Artery-Vein segmentation pipeline for COPD Patient CT scane, and plaque segmentation for onset COPD detection.
 
-My name is Hektor Buqaj. I'm a Senior at the University of Michigan, currently pursuing a Bachelor's of Engineering in Data science. 
+Whenever I have free time and STILL want to do something CS/DS-related, I am working on web development and homelabbing to host my own personal web-page (yet to be announced!) and other services for self-hosting.
+
+My sketchfab link for my 3d models: [link](https://sketchfab.com/Mustard.King)
 
 ---
 
