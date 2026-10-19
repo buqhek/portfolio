@@ -52,9 +52,9 @@ Technology used:
 - Unity
 - C#
 
-[Download the game for Windows and Mac](/assets/downloads/TeleBall.zip)
+[Download the game for Windows and Mac](https://mustardk1ng.itch.io/teleball-windows-and-mac-builds)
 
-[Play on my Itch.io]()
+[Play on my Itch.io](https://mustardk1ng.itch.io/teleball)
 
 ---
 
