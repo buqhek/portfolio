@@ -1,15 +1,11 @@
 # A Little About Me
 Hello! 👋  
 
-My name is Hektor Buqaj. I'm a Junior at the University of Michigan, currently pursuing a Bachelor's of Engineering in Data science. As a member of the Michigan Data Science Team, a cohort member of M-Stem, and a proud member of the Albanian American Student Association, I strongly believe in the collaboration and cooperation towards making a better tomorrow.  
-
-I'm a firm believer that the stories we tell and hear around us hold power, and have the ability to change people. As a data science student, I've become more accustomed to reading the stories in the data I work through. As a result, I hope to take my skills and make the story we'll tell about the future to be a better one.  
-
-I'm highly passionate about sustainable technology practices, with additional interest in various other fields, such as game development.  
+My name is Hektor Buqaj. I'm a Senior at the University of Michigan, currently pursuing a Bachelor's of Engineering in Data science. 
 
 ---
 
-**Proficient Technical Skills:** C++, Python: Pandas, Plotly, Matplotlib, Git, Scikit-learn, Beautifulsoup, SQLite
+**Proficient Technical Skills:** Python: Pandas, Plotly, Matplotlib, Git, Scikit-learn, Beautifulsoup, SQLite
 
 **Skills I'm Learning :** C#, Javascript, Pytorch, Flask, React
 
@@ -34,11 +30,45 @@ I'm highly passionate about sustainable technology practices, with additional in
 - Stats412: Intro to Probability and Statistics | <span style="float:right;">Completed</span>
 - Stats413: Applied Linear Regression | <span style="float:right;">Completed</span>
 - Eecs485: Web Systems | <span style="float:right;">Completed</span>
-- Aero388: Systems Engineering Processes and Digital Tools (MBSE) | <span style="float:right;">Ongoing</span>
+- Aero388: Systems Engineering Processes and Digital Tools (MBSE) | <span style="float:right;">Completed</span>
+- EECS494: Introduction to Game Development | <span style="float:right;">Ongoing</span>
+- EECS298: 3D Technical Art and Animation | <span style="float:right;">Ongoing</span>
+- EECS484: Database Management Systems | <span style="float:right;">Ongoing</span>
 
 ---
 
 # Projects
+
+### Tele-Ball - A Custom Puzzle Platformer
+A rapid prototype puzzle platformer built in two weeks. The focus of this project was rapidly iterating on a custom and novel game mechanic through playtesting and feedback! In Tele-Ball, you are able to teleport between 3 types of spheres to solve puzzles in continuous world.
+
+Controls:
+- Arrow keys to move
+- Q & E to turn the camera 90 degrees
+- Spacebar to come to a stop
+- Left shift to Teleport
+
+Technology used:
+- Unity
+- C#
+
+[Download the game for Windows and Mac](/assets/downloads/TeleBall.zip)
+[Play on my Itch.io]()
+
+### The Legend of Zelda - Dungeon 1 Recreation
+A team project for EECS 494 recreating dungeon gameplay from The Legend of Zelda using Unity. The game includes enemies, weapons, collectibles, room exploration, and a custom level featuring a star power-up.
+
+My contributions: I developed the inventory system, all the weapons showcased in the first dungeon, the power ups, keys, and puzzle systems UI cleanup. I worked on UI systems and controls, with a focus to achieving a real-game authenticity to the original.
+
+I implemented the inventory system, player sprite and animation, bombs, sword, bow, boomerang, room transitions, the bow room, custom level, and custom powerup. I also worked on refining the Blade Trap, audio and level design, and collectables. A lot of my integration and debugging work involved fixing item drops and level design, and refactoring our components for a streamlined developing experience.
+
+Collaboration: This was a two-person project. My teammate developed the sword and weapon systems, star power-up, and custom level.
+
+Technologies: Unity, C#, Git.
+
+[Download the game for Windows and Mac](/assets/downloads/Zelda_Dungeon1.zip)
+
+Original game and characters by Nintendo. Created as a student project.
 
 ### Power Outage Analysis | [Link](https://buqhek.github.io/power_outages_analysis/)
 - Developed a regression model using scikit-learn to predict electricity prices based on power outage data, achieving a 84% reduction in mean squared error through feature engineering and hyperparameter tuning.
