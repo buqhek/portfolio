@@ -73,9 +73,9 @@ Collaboration: This was a two-person project. My teammate developed the sword an
 
 Technologies: Unity, C#, Git.
 
-[Download the game for Windows and Mac](https://mustardk1ng.itch.io/the-legend-of-zelda-dungeon-1-downloads)
-
 [Play on my Itch.io](https://mustardk1ng.itch.io/zelda-1-dungeon-1-remake)
+
+[Download the game for Windows and Mac](https://mustardk1ng.itch.io/the-legend-of-zelda-dungeon-1-downloads)
 
 Original game and characters by Nintendo. Created as a student project.
 
