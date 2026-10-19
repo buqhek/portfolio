@@ -69,6 +69,14 @@ My contributions: I developed the inventory system, all the weapons showcased in
 
 I implemented the inventory system, player sprite and animation, bombs, sword, bow, boomerang, room transitions, the bow room, custom level, and custom powerup. I also worked on refining the Blade Trap, audio and level design, and collectables. A lot of my integration and debugging work involved fixing item drops and level design, and refactoring our components for a streamlined developing experience.
 
+Controls:
+
+- Arrow keys for movement
+- spacebar to swap secondary weapons
+- x to attack
+- c to use secondary weapon
+- zero (0) to enable cheats
+
 Collaboration: This was a two-person project. My teammate developed the sword and weapon systems, star power-up, and custom level.
 
 Technologies: Unity, C#, Git.
